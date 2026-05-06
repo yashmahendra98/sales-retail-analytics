@@ -134,7 +134,7 @@ Credit card transactions dominate at 74.5%. E-wallets represent only 5.4%. Given
 ## 📁 Project Structure
 
 ```
-retail-analytics/
+sales-retail-analytics/
 ├── README.md                        # This file
 ├── powerbi_dax_measures.md          # All DAX formulas for Power BI
 ├── sql/
@@ -161,8 +161,8 @@ retail-analytics/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/retail-analytics.git
-cd retail-analytics
+git clone https://github.com/YOUR_USERNAME/sales-retail-analytics.git
+cd sales-retail-analytics
 
 # 2. Place datasets in data/ folder
 #    - E-commerce_Dataset.csv
